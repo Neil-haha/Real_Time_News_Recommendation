@@ -1,3 +1,3 @@
 # Real_Time_News_Recommendation
 
-Visit the website: http://icoj.mooo.com
+Here is the demo: http://icoj.mooo.com
